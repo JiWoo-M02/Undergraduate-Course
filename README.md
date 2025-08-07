@@ -37,26 +37,26 @@
 - 데이터 시각화: Matplotlib
 - 카테고리별 데이터 필터링 및 샘플링
 - 시각화 요소(크기, 색상, 투명도)를 통한 정보 인코딩
-<img height="500" alt="image" src="https://github.com/user-attachments/assets/e0ceade4-6e18-485c-a653-446160a59b44" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/e0ceade4-6e18-485c-a653-446160a59b44" />
 <br>
 
 
 ## 2023-1_텍스트 데이터 분석 및 활용
-📌 Project: Spatial Analysis of Starbucks and Ediya Locations in Seoul
+### 📌 Project: Spatial Analysis of Starbucks and Ediya Locations in Seoul
 소상공인시장진흥공단에서 제공하는 상가업소정보 데이터를 활용하여 서울시 내 스타벅스와 이디야 카페의 위치를 분석한 프로젝트입니다. 두 브랜드는 대표적인 프랜차이즈 카페로서 경쟁 관계에 있으며, 이들의 분포 특성과 입지 전략을 시각적으로 비교함으로써 카페 시장의 상권 동향을 이해하는 데 기여할 수 있습니다.
 
-✅ Key Features
+### ✅ Key Features
 - 상가업소 데이터에서 서울 지역만 필터링
 - 텍스트 전처리를 통한 스타벅스/이디야 점포 구분
 - 브랜드별 점포 수, 자치구별 분포, 위경도 산점도 시각화
 - 상권 내 입지 특성 분석 (상업지 중심 분포 vs. 균등 분포)
 
-💡 Skills
+### 💡 Skills
 - Python, Pandas
 - 데이터 시각화: Seaborn, Matplotlib
 - 문자열 처리 및 조건 필터링
 - 위치 데이터 기반 산점도 분석 (경도/위도 기반)
-<img height="500" alt="image" src="https://github.com/user-attachments/assets/dc105a27-96f6-4cac-8b71-2ce79ea9cfbd" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/dc105a27-96f6-4cac-8b71-2ce79ea9cfbd" />
 <br>
 
 
