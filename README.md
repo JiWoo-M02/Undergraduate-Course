@@ -83,17 +83,17 @@
 <br>
 
 ## 2024-2_AI 라이브러리 활용
-## 📌 Project: Deep Learning in Practice: Classifying Dog and Cat Images
+### 📌 Project: Deep Learning in Practice: Classifying Dog and Cat Images
 본 프로젝트는 딥러닝 기반의 이미지 분류 모델(CNN)을 구축하여, 고양이와 개 이미지를 자동으로 분류하는 것을 목표로 합니다. Kaggle에서 제공하는 데이터셋을 기반으로 학습을 진행하였고, 데이터 증강(Augmentation) 기법과 Convolutional Neural Network를 통해 모델의 정확도를 향상시켰습니다.
 <br> 학습 결과, 오답률은 점진적으로 감소하고 정확도는 90% 이상까지 상승하였으며, CNN 구조 및 하이퍼파라미터 설정의 중요성을 체감할 수 있었습니다.
 
-## ✅ Key Features
+### ✅ Key Features
 - Kaggle 공개 데이터셋 활용 (고양이 vs 개 이미지)
 - CNN 기반 분류 모델 구축 및 Dropout 적용
 - 이미지 증강 기법 적용 (회전, 확대, 좌우반전 등)
 - 정확도/오차 시각화 그래프를 통한 학습 경향 분석
 
-## 💡 Skills
+### 💡 Skills
 - Python, TensorFlow, Keras
 - CNN 모델 설계 및 층별 활성함수 활용
 - 이미지 증강: ImageDataGenerator
