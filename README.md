@@ -63,10 +63,45 @@
 
 
 ## 2023-Summer_데이터처리캡스톤디자인프로젝트
+### 📌 Project: Real-Time Weather Observation Using Open API
+이 프로젝트는 공공데이터 포털에서 제공하는 기상청 날씨 API를 활용하여 실시간 기온, 강수량, 습도 정보를 조회하는 프로그램을 구현한 사례입니다. 사용자는 특정 시간과 위치(경도, 위도)를 입력하면, 해당 시점의 날씨 데이터를 간편하게 확인할 수 있습니다.
+<br>입력값을 바탕으로 요청한 시점의 날씨 정보를 API를 통해 실시간 조회할 수 있었으며, 이를 통해 웹사이트에 직접 방문하지 않아도 간편하게 기온, 습도, 강수량을 확인할 수 있는 구조를 구현했습니다. 이는 기후 변화 대응, 산업 현장의 의사결정, 일상생활의 편의성 향상 등에 기여할 수 있습니다.
 
+### ✅ Key Features
+- 기상청 초단기 실황 정보를 불러오기 위한 API 연동
+- 사용자 입력(경도, 위도, 날짜, 시간)에 따른 실시간 요청
+- JSON 응답 데이터 파싱 및 Weather 클래스 객체화
+- 기온, 강수량, 습도 등 주요 요소 출력
 
+### 💡 Skills
+- Python, Requests, JSON
+- 공공데이터 API 연동 및 응답 처리
+- 클래스 설계 및 객체지향 기반 정보 출력
+- 사용자 입력 기반 동적 요청 구성
+<img height="350" alt="image" src="https://github.com/user-attachments/assets/ac02423c-fed0-4462-94a4-fcf9c98f1520">
+<br>
+<br>
 
 ## 2024-2_AI라이브러리활용
+📌 Project Overview: Cat vs. Dog Image Classification Using CNN
+본 프로젝트는 **딥러닝 기반의 이미지 분류 모델(CNN)**을 구축하여, 고양이와 개 이미지를 자동으로 분류하는 것을 목표로 합니다. Kaggle에서 제공하는 데이터셋을 기반으로 학습을 진행하였고, 데이터 증강(Augmentation) 기법과 Convolutional Neural Network를 통해 모델의 정확도를 향상시켰습니다.
+<br> 학습 결과, 오답률은 점진적으로 감소하고 정확도는 90% 이상까지 상승하였으며, CNN 구조 및 하이퍼파라미터 설정의 중요성을 체감할 수 있었습니다.
 
+✅ Key Features
+- Kaggle 공개 데이터셋 활용 (고양이 vs 개 이미지)
+- CNN 기반 분류 모델 구축 및 Dropout 적용
+- 이미지 증강 기법 적용 (회전, 확대, 좌우반전 등)
+- 정확도/오차 시각화 그래프를 통한 학습 경향 분석
 
+💡 Skills
+- Python, TensorFlow, Keras
+- CNN 모델 설계 및 층별 활성함수 활용
+- 이미지 증강: ImageDataGenerator
+- 시각화 및 학습 이력 분석 (Accuracy & Loss Plot)
+
+<br>
+<br>
+<br>
+<br>
+<br>
 <img height="500" alt="image" src="https://github.com/user-attachments/assets/b9042caf-1e03-4960-815a-809eec48389c" />
