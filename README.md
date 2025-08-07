@@ -78,7 +78,7 @@
 - 공공데이터 API 연동 및 응답 처리
 - 클래스 설계 및 객체지향 기반 정보 출력
 - 사용자 입력 기반 동적 요청 구성
-<img height="250" alt="image" src="https://github.com/user-attachments/assets/ac02423c-fed0-4462-94a4-fcf9c98f1520">
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/ac02423c-fed0-4462-94a4-fcf9c98f1520">
 <br>
 <br>
 
@@ -99,7 +99,6 @@
 - 이미지 증강: ImageDataGenerator
 - 시각화 및 학습 이력 분석 (Accuracy & Loss Plot)
 
-<br>
 <br>
 <br>
 <br>
