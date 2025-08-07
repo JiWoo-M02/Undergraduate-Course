@@ -3,7 +3,7 @@
 <br>
 
 ## 2023-1_데이터 사이언스 심화
-### 📌 Project: Forecasting Average Temperature with Machine Learning
+### 📌 Project: Prediction of Average Temperature Using Machine Learning
 기상 데이터를 기반으로 머신러닝 모델을 구축하여 일일 평균 기온을 예측하는 것을 목표로 합니다. 기온 예측은 농업, 에너지 수급, 건축 설계 등 다양한 산업에 필수적인 요소이며, 본 프로젝트에서는 TensorFlow 기반의 회귀 모델을 통해 실제 기상 데이터를 분석하고 학습시켰습니다.
 
 ### ✅ Key Features
@@ -62,7 +62,7 @@
 <br>
 
 
-## 2023-Summer_데이터처리캡스톤디자인프로젝트
+## 2023-Summer_데이터 처리 캡스톤 디자인 프로젝트
 ### 📌 Project: Real-Time Weather Observation Using Open API
 이 프로젝트는 공공데이터 포털에서 제공하는 기상청 날씨 API를 활용하여 실시간 기온, 강수량, 습도 정보를 조회하는 프로그램을 구현한 사례입니다. 사용자는 특정 시간과 위치(경도, 위도)를 입력하면, 해당 시점의 날씨 데이터를 간편하게 확인할 수 있습니다.
 <br>입력값을 바탕으로 요청한 시점의 날씨 정보를 API를 통해 실시간 조회할 수 있었으며, 이를 통해 웹사이트에 직접 방문하지 않아도 간편하게 기온, 습도, 강수량을 확인할 수 있는 구조를 구현했습니다. 이는 기후 변화 대응, 산업 현장의 의사결정, 일상생활의 편의성 향상 등에 기여할 수 있습니다.
@@ -82,18 +82,18 @@
 <br>
 <br>
 
-## 2024-2_AI라이브러리활용
-📌 Project Overview: Cat vs. Dog Image Classification Using CNN
-본 프로젝트는 **딥러닝 기반의 이미지 분류 모델(CNN)** 을 구축하여, 고양이와 개 이미지를 자동으로 분류하는 것을 목표로 합니다. Kaggle에서 제공하는 데이터셋을 기반으로 학습을 진행하였고, 데이터 증강(Augmentation) 기법과 Convolutional Neural Network를 통해 모델의 정확도를 향상시켰습니다.
+## 2024-2_AI 라이브러리 활용
+## 📌 Project: Deep Learning in Practice: Classifying Dog and Cat Images
+본 프로젝트는 딥러닝 기반의 이미지 분류 모델(CNN)을 구축하여, 고양이와 개 이미지를 자동으로 분류하는 것을 목표로 합니다. Kaggle에서 제공하는 데이터셋을 기반으로 학습을 진행하였고, 데이터 증강(Augmentation) 기법과 Convolutional Neural Network를 통해 모델의 정확도를 향상시켰습니다.
 <br> 학습 결과, 오답률은 점진적으로 감소하고 정확도는 90% 이상까지 상승하였으며, CNN 구조 및 하이퍼파라미터 설정의 중요성을 체감할 수 있었습니다.
 
-✅ Key Features
+## ✅ Key Features
 - Kaggle 공개 데이터셋 활용 (고양이 vs 개 이미지)
 - CNN 기반 분류 모델 구축 및 Dropout 적용
 - 이미지 증강 기법 적용 (회전, 확대, 좌우반전 등)
 - 정확도/오차 시각화 그래프를 통한 학습 경향 분석
 
-💡 Skills
+## 💡 Skills
 - Python, TensorFlow, Keras
 - CNN 모델 설계 및 층별 활성함수 활용
 - 이미지 증강: ImageDataGenerator
