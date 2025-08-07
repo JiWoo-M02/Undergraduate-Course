@@ -23,7 +23,7 @@
 
 
 ## 2023-1_데이터 시각화 응용
-### 📌 Project: 출판사별 발행 도서의 발행 년도와 대출건수 알아보기
+### 📌 Project: Analysis of Publication Years and Borrowing Counts of Books by Publisher
 도서관 데이터를 활용하여 출판사별 도서 발행 연도와 대출 건수의 분포를 시각화한 프로젝트입니다. 출판사 데이터를 분석함으로써 도서관 내 특정 출판사의 활동성, 출판 트렌드, 도서 인기도 등을 파악할 수 있으며, 이를 기반으로 도서 수장 전략 수립이나 독자 맞춤형 서비스 개선에 응용할 수 있습니다.
 
 ### ✅ Key Features
@@ -37,7 +37,7 @@
 - 데이터 시각화: Matplotlib
 - 카테고리별 데이터 필터링 및 샘플링
 - 시각화 요소(크기, 색상, 투명도)를 통한 정보 인코딩
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/e0ceade4-6e18-485c-a653-446160a59b44" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/e0ceade4-6e18-485c-a653-446160a59b44" />
 <br>
 
 
@@ -56,7 +56,7 @@
 - 데이터 시각화: Seaborn, Matplotlib
 - 문자열 처리 및 조건 필터링
 - 위치 데이터 기반 산점도 분석 (경도/위도 기반)
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/dc105a27-96f6-4cac-8b71-2ce79ea9cfbd" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/dc105a27-96f6-4cac-8b71-2ce79ea9cfbd" />
 <br>
 
 
