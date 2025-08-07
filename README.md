@@ -78,13 +78,13 @@
 - 공공데이터 API 연동 및 응답 처리
 - 클래스 설계 및 객체지향 기반 정보 출력
 - 사용자 입력 기반 동적 요청 구성
-<img height="350" alt="image" src="https://github.com/user-attachments/assets/ac02423c-fed0-4462-94a4-fcf9c98f1520">
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/ac02423c-fed0-4462-94a4-fcf9c98f1520">
 <br>
 <br>
 
 ## 2024-2_AI라이브러리활용
 📌 Project Overview: Cat vs. Dog Image Classification Using CNN
-본 프로젝트는 **딥러닝 기반의 이미지 분류 모델(CNN)**을 구축하여, 고양이와 개 이미지를 자동으로 분류하는 것을 목표로 합니다. Kaggle에서 제공하는 데이터셋을 기반으로 학습을 진행하였고, 데이터 증강(Augmentation) 기법과 Convolutional Neural Network를 통해 모델의 정확도를 향상시켰습니다.
+본 프로젝트는 **딥러닝 기반의 이미지 분류 모델(CNN)** 을 구축하여, 고양이와 개 이미지를 자동으로 분류하는 것을 목표로 합니다. Kaggle에서 제공하는 데이터셋을 기반으로 학습을 진행하였고, 데이터 증강(Augmentation) 기법과 Convolutional Neural Network를 통해 모델의 정확도를 향상시켰습니다.
 <br> 학습 결과, 오답률은 점진적으로 감소하고 정확도는 90% 이상까지 상승하였으며, CNN 구조 및 하이퍼파라미터 설정의 중요성을 체감할 수 있었습니다.
 
 ✅ Key Features
