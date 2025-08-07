@@ -38,8 +38,8 @@
 - 카테고리별 데이터 필터링 및 샘플링
 - 시각화 요소(크기, 색상, 투명도)를 통한 정보 인코딩
 <img height="350" alt="image" src="https://github.com/user-attachments/assets/e0ceade4-6e18-485c-a653-446160a59b44">
-
-</br>
+<br>
+<br>
 
 
 ## 2023-1_텍스트 데이터 분석 및 활용
@@ -58,9 +58,9 @@
 - 문자열 처리 및 조건 필터링
 - 위치 데이터 기반 산점도 분석 (경도/위도 기반)
 <img height="350" alt="image" src="https://github.com/user-attachments/assets/dc105a27-96f6-4cac-8b71-2ce79ea9cfbd">
+<br>
+<br>
 
-<br>
-<br>
 
 ## 2023-Summer_데이터처리캡스톤디자인프로젝트
 
