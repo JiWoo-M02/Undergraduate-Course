@@ -39,7 +39,7 @@
 - 시각화 요소(크기, 색상, 투명도)를 통한 정보 인코딩
 <img height="350" alt="image" src="https://github.com/user-attachments/assets/e0ceade4-6e18-485c-a653-446160a59b44">
 
-<br>
+</br>
 
 
 ## 2023-1_텍스트 데이터 분석 및 활용
